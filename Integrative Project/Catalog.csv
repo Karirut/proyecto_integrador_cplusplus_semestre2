@@ -1,0 +1,11 @@
+ID,NAME,LENGTH (minutes),GENRE,RATING (IMDb),RATORS,SERIES OR MOVIE,EPISODE,TITLE,SEASON
+1,Peaky Blinders,57,Action,4.4,492000,Series,1,Episode 1,1
+2,Peaky Blinders,57,Action,,,Series,,,
+3,Lord of the Rings,178,Fantasy,,,Movie,,,
+4,Everything everywhere all at once,140,Sci-fi,4.15,104000,Movie,,,
+5,Silence of the lambs,118,Suspense,,,Movie,,,
+6,Game of thrones,59,Action,,,Series,9,Battle of the Bastards,6
+7,Game of thrones,68,Action,,,Series,10,Winds of Winter,6
+8,Neon Genesis Evangelion,25,Sci-fi,,,Series,26,,
+9,Harry Potter and the prisoner of azkaban,161,Fantasy,,,Movie,,,
+10,Knives out,130,Mistery,3.97,593000,Movie,,,
